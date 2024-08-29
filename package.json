@@ -12,6 +12,7 @@
     "@apollo/client": "^3.11.4",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
+    "expo-updates": "~0.25.24",
     "graphql": "^15.8.0",
     "graphql-ws": "^5.16.0",
     "react": "18.2.0",
